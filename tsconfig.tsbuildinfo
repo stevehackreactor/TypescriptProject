@@ -1,0 +1,143 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "./src/app.ts": {
+        "version": "cbc21fd1b998eab802bb1a3049c5ff75dee1ec75ef08dbcda13f7cb0a5174f51",
+        "signature": "7262b8e28448ba41ae328cb0ce16dcabbd44cb15a846047e956b881565d12abb",
+        "affectsGlobalScope": true
+      },
+      "./src/basics.ts": {
+        "version": "2d1d63249b037a8648500a102757b366cd2fed7dfa0f533a87a25c01afa4d09c",
+        "signature": "f21740f8043b28c1e9dd42ae6c29edc93652e1c2e1d2719aee2381907ccea3a0",
+        "affectsGlobalScope": true
+      },
+      "./src/functions.ts": {
+        "version": "621b6a1eed9320327f8be2b48bca547611592251f79fc007768ad61225783d5b",
+        "signature": "d189474ff9ba3d6633696e6f95089ea82dcf5536ba2648d53af62f9416649654",
+        "affectsGlobalScope": true
+      },
+      "./src/obj-arrays-enums.ts": {
+        "version": "2fa4808a928726c20bf85a854b14364d4bbcf14569cc31262aae684d040cf53c",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "./src/union-aliases.ts": {
+        "version": "239d3cd4b4d6d738e64a659d121de1ab54df2303a85cd97ccc656d2dacb764ab",
+        "signature": "3f9fc09fef3018aa133cd2502144455ea5bcd743f0f80a66e68c1dc3744145e8",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.dom.iterable.d.ts",
+        "lib.scripthost.d.ts"
+      ],
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../.nvm/versions/node/v14.15.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./src/app.ts",
+      "./src/basics.ts",
+      "./src/functions.ts",
+      "./src/obj-arrays-enums.ts",
+      "./src/union-aliases.ts"
+    ]
+  },
+  "version": "4.2.4"
+}

@@ -1,9 +1,13 @@
-// union type, increases extensibility
+// type aliases
+// somewhat similar to just creating a variable;
+type NumStr = number | string;
+type ConversionType = 'as-number' | 'as-text';
 
 function combine(
-    input1: number | string,
-    input2: number | string,
-    resultConversion: string
+  // union type, increases extensibility
+    input1: NumStr,
+    input2: NumStr,
+    resultConversion: ConversionType
 ) {
   let result;
 
@@ -13,7 +17,7 @@ function combine(
     result = input1.toString() + input2.toString();
   }
   if (resultConversion === 'as-number') {
-    return +result;
+    return Number(result);
   } else {
     return result.toString();
   }
